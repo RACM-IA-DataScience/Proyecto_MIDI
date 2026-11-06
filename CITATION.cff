@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software in your research or educational projects, please cite it as below."
+authors:
+  - family-names: "Proyecto MIDI Authors"
+title: "Proyecto MIDI: Generación y Modelado Musical con MidiTok (REMI) y PyTorch"
+version: 1.0.0
+date-released: 2026-11-06
+url: "https://github.com/tu-usuario/Proyecto_MIDI"
+keywords:
+  - symbolic-music
+  - miditok
+  - remi
+  - pytorch
+  - lstm
+  - midi-generation
+  - audio-synthesis
+license: MIT

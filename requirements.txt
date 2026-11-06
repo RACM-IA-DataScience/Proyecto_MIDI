@@ -1,0 +1,31 @@
+# ==============================================================================
+# PROYECTO MIDI - DEPENDENCIAS DEL PROYECTO
+# ==============================================================================
+
+# --- Deep Learning & Tensores ---
+torch>=2.0.0
+
+# --- Procesamiento Simbólico MIDI y Tokenización ---
+miditok>=3.1.0
+symusic>=0.6.0
+pretty_midi>=0.2.10
+mido>=1.3.3
+
+# --- Análisis Numérico y Estructuras de Datos ---
+numpy>=1.26.0
+pandas>=2.1.0
+scipy>=1.11.0
+
+# --- Visualización y Gráficos ---
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# --- Procesamiento y Síntesis de Audio ---
+soundfile>=0.12.0
+midi2audio>=0.1.1
+
+# --- Entorno Interactivo, Jupyter y Utilidades ---
+ipykernel>=6.28.0
+ipywidgets>=8.1.0
+tqdm>=4.66.0
+click>=8.1.0
